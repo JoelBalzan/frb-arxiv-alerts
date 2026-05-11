@@ -12,11 +12,12 @@ KEYWORDS = [
     "frb",
     "fast radio burst",
     "pulsar",
-    "scintillation",
-    "dispersion measure",
-    "askap",
-    "chime",
-    "meerkat",
+    "magnetar"
+    #"scintillation",
+    #"dispersion measure",
+    #"askap",
+    #"chime",
+    #"meerkat",
 ]
 
 matches = []
